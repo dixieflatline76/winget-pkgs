@@ -1,0 +1,13 @@
+PackageIdentifier: dixieflatline76.Spice
+PackageVersion: 2.5.9
+Installers:
+  - Architecture: x64
+    InstallerType: exe
+    InstallerUrl: https://github.com/dixieflatline76/Spice/releases/download/v2.5.9/Spice-Setup-2.5.9-windows-amd64.exe
+    InstallerSha256: 52606B1BFAACD2663706B56087D2E1946959D6CC1F44643EB07EC0A6BAF2F069
+    UpgradeBehavior: install
+    InstallerSwitches:
+      Silent: /VERYSILENT /SUPPRESSMSGBOXES /NORESTART
+      SilentWithProgress: /SILENT /SUPPRESSMSGBOXES /NORESTART
+ManifestType: installer
+ManifestVersion: 1.5.0
