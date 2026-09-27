@@ -1,0 +1,11 @@
+PackageIdentifier: dixieflatline76.NachoFlow
+PackageVersion: 1.4.0
+Commands:
+  - nacho-flow
+Installers:
+  - Architecture: x64
+    InstallerType: portable
+    InstallerUrl: https://github.com/dixieflatline76/nacho-flow/releases/download/v1.4.0/nacho-flow-1.4.0-windows-amd64.exe
+    InstallerSha256: C5BFEC7D00F87645EB24877A491D95E219A04AC36933FD3C093DFB18B0156D98
+ManifestType: installer
+ManifestVersion: 1.5.0
